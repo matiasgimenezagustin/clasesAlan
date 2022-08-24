@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo-pagina{
+    width: 60px;
+}
+
+.carrousel-container{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.title-container h1{
+    text-align: center;
+}
+.p-banner-container{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.catalogo-button-container{
+    margin-top: 7vh;
+    padding-left: 5%;
+    margin-bottom: 20vh;
+}
